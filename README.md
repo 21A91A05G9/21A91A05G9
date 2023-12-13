@@ -19,8 +19,8 @@
   <li>Problem Solving</li>
   <li>Coding</li>
   <li>C++, Python, JAVA</li>
-  <li>Front-end Technologies (HTML, CSS, JavaScript,Media Queries, Bootstrap)</li>
-  <li>Back-end Technologies (NodeJs)</li>
+  <li>Front-end Technologies (HTML, CSS, JavaScript,Media Queries, Bootstrap,React)</li>
+  <li>Back-end Technologies (NodeJs,ExpressJS)</li>
   <li>Database Management (MySQL,NOSQL)</li>
   
   
