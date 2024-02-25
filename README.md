@@ -28,7 +28,7 @@
 
 
 
-[![Sunil's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=vasavi_08)](https://auth.geeksforgeeks.org/user/vasavi_08)
+[![vasavi's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=vasavi_08)]([https://auth.geeksforgeeks.org/user/vasavi_08](https://auth.geeksforgeeks.org/user/vasavi_08/))
 
 
 
