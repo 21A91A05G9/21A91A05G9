@@ -47,9 +47,11 @@
 
 <p align="center">Check out some of my projects:</p>
 
-<ul>
-  <li><a href="https://github.com/21A91A05G9/Snake-Ladder">Project 1</a> -Snake & Ladder Game.</li>
+<ul  >
+  <li><a href="https://github.com/21A91A05G9/Snake-Ladder">Project 1</a> - Snake & Ladder Game.</li>
   <li><a href="https://github.com/21A91A05G9/TextEditor">Project 2</a> - Text Editor.</li>
+  <li><a href="https://github.com/21A91A05G9/eLeaveHub">Project 3</a> - eLeave Hub.</li>
+  <li><a href="https://github.com/21A91A05G9/LiteBlog">Project 4</a> - Blog Lite</li>
   
 </ul>
 
