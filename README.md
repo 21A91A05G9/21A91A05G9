@@ -14,41 +14,39 @@
 <p align="center">Welcome to my GitHub profile! I'm passionate about coding and building amazing software.</p>
 
 ## Here are some of my areas of expertise:
-
+<b>
 <ul>
   <li>Problem Solving</li>
   <li>Coding</li>
   <li>C++, Python, JAVA</li>
-  <li><b>Front-end Technologies</b> (HTML, CSS, JavaScript,Media Queries, Bootstrap,React)</li>
-  <li><b>Back-end Technologies</b> (NodeJs,ExpressJS, PHP)</li>
-  <li><b>Back-end Technologies</b>Database Management (MySQL,NOSQL)</li>
-  
-  
+  <li>Front-end Technologies : HTML, CSS, JavaScript, Media Queries, Bootstrap, React, React Native</li>
+  <li>Back-end Technologies : NodeJs, ExpressJS, PHP, REST API's</li>
+  <li>Database Management : MySQL, NOSQL</li>
 </ul>
+</b>
 
 
+### Coding Profiles
 
 [![vasavi's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=vasavi_08)]([https://auth.geeksforgeeks.org/user/vasavi_08](https://auth.geeksforgeeks.org/user/vasavi_08/))
-
-
 
 [![](https://leetcard.jacoblin.cool/Vasavi08_12?theme=dark)](https://leetcode.com/Vasavi08_12/)
 
 
 
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">###Languages:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> </p>
 
 
 
 
-<p align="center">Check out some of my projects:</p>
+###Check out some of my projects
 
 <ul  >
-  <li><a href="https://github.com/21A91A05G9/Snake-Ladder">Project 1</a> - Snake & Ladder Game.</li>
+  <li><a href="https://github.com/21A91A05G9/Snake-Ladderr">Project 1</a> - Snake & Ladder Game.</li>
   <li><a href="https://github.com/21A91A05G9/TextEditor">Project 2</a> - Text Editor.</li>
-  <li><a href="https://github.com/21A91A05G9/eLeaveHub">Project 3</a> - eLeave Hub.</li>
+  <li><a href="https://github.com/21A91A05G9/E-Leave_Hub">Project 3</a> - eLeave Hub.</li>
   <li><a href="https://github.com/21A91A05G9/LiteBlog">Project 4</a> - Blog Lite</li>
   
 </ul>
