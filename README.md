@@ -13,15 +13,15 @@
 
 <p align="center">Welcome to my GitHub profile! I'm passionate about coding and building amazing software.</p>
 
-<p align="center">Here are some of my areas of expertise:</p>
+## Here are some of my areas of expertise:
 
 <ul>
   <li>Problem Solving</li>
   <li>Coding</li>
   <li>C++, Python, JAVA</li>
-  <li>Front-end Technologies (HTML, CSS, JavaScript,Media Queries, Bootstrap,React)</li>
-  <li>Back-end Technologies (NodeJs,ExpressJS, PHP)</li>
-  <li>Database Management (MySQL,NOSQL)</li>
+  <li><b>Front-end Technologies</b> (HTML, CSS, JavaScript,Media Queries, Bootstrap,React)</li>
+  <li><b>Back-end Technologies</b> (NodeJs,ExpressJS, PHP)</li>
+  <li><b>Back-end Technologies</b>Database Management (MySQL,NOSQL)</li>
   
   
 </ul>
