@@ -15,14 +15,8 @@
 <p align="center">Welcome to my GitHub profile! I'm passionate about coding and building amazing software.</p>
 
 <br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vasavi-noolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasavi-noolu" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vasavi_08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vasavi_08" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vasavi08_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vasavi08_12" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vasavi08_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vasavi08_12" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vasavi_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vasavi_08" height="30" width="40" /></a>
-</p>
+<h3 align="left">Connect with me:</h3> <a href="https://linkedin.com/in/vasavi-noolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasavi-noolu" height="30" width="40" /></a>
+
 
 ### Here are some of my areas of expertise:
 <b>
@@ -39,8 +33,16 @@
 <br/>
 
 ### Coding Profiles
+<p align="left">
 
-[![vasavi's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=vasavi_08)]([https://auth.geeksforgeeks.org/user/vasavi_08](https://auth.geeksforgeeks.org/user/vasavi_08/))
+<a href="https://www.codechef.com/users/vasavi_08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vasavi_08" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vasavi08_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vasavi08_12" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vasavi08_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vasavi08_12" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vasavi_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vasavi_08" height="30" width="40" /></a>
+</p>
+
+[![Vasavi's GeeksforGeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=vasavi_08)](https://auth.geeksforgeeks.org/user/vasavi_08/)
+
 
 [![](https://leetcard.jacoblin.cool/Vasavi08_12?theme=dark)](https://leetcode.com/Vasavi08_12/)
 
