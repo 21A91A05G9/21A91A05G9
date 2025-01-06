@@ -15,7 +15,7 @@
 <p align="center">Welcome to my GitHub profile! I'm passionate about coding and building amazing software.</p>
 
 <br/>
-<h3 align="left">Connect with me:</h3> <a href="https://linkedin.com/in/vasavi-noolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasavi-noolu" height="30" width="40" /></a>
+
 
 
 ### Here are some of my areas of expertise:
@@ -40,6 +40,8 @@
 <a href="https://www.leetcode.com/vasavi08_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vasavi08_12" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vasavi_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vasavi_08" height="30" width="40" /></a>
 </p>
+
+<br/>
 
 [![Vasavi's GeeksforGeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=vasavi_08)](https://auth.geeksforgeeks.org/user/vasavi_08/)
 
