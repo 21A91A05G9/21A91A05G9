@@ -46,7 +46,7 @@
 
 <ul  >
   <li><a href="https://github.com/21A91A05G9/Snake-Ladderr">Project 1</a> - Snake & Ladder Game.</li>
-  <li><a href="https://github.com/21A91A05G9/TextEditor">Project 2</a> - Text Editor.</li>
+  <li><a href="https://github.com/21A91A05G9CodeX-App/">Project 2</a> - CodeX</li>
   <li><a href="https://github.com/21A91A05G9/E-Leave_Hub">Project 3</a> - eLeave Hub.</li>
   <li><a href="https://github.com/21A91A05G9/LiteBlog">Project 4</a> - Blog Lite</li>
   
